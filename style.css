@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+#navbar{
+  text-align: center;
+  background-color: #1e711f;
+}
+
+#C{
+  text-align: center;
+  background-color: #1e711f;  
+}
+#home{
+  color:white;
+}
+#about{
+  color:white;
+}
+body{
+  background-color: #9b9bfd;
+}
+
+
+h1{
+  text-align: center;
+}
+
+
+h2{
+  text-align: center;
+}
+
+#pop{
+  text-align:center;
+}
+
+#MRC{
+width: 20%;
+height:60vh;
+margin-left:38vw ;
+}
+
+#NON{
+text-align:center;
+}
